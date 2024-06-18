@@ -1,1 +1,1 @@
-# P40-Rock-Paper-Scissors-Game
+# Rock-Paper-Scissors-Game-40th Project
